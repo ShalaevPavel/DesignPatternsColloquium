@@ -6,4 +6,4 @@ Logic for helping a developer choose a DB. I used Abstract Factory design patter
 
 ## Template Method
 
-Common template for engineers to built vehicles with similar actions such as arrive, leave and refuel. And to simple examples( plane, car).
+Common template for engineers to built vehicles with similar actions such as arrive, leave and refuel. And two simple examples( plane, car).
